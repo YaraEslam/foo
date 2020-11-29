@@ -1,0 +1,9 @@
+{
+  "lang" : "EN",
+  "password" : "Enter Password",
+  "phone" : "Enter Phone Number",
+  "login" : "Login",
+  "signUp" : "Sign Up",
+  "forget_pass" : "Forget Password",
+  "changeLang" : "Change Language"
+}
